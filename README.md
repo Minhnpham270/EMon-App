@@ -4,8 +4,6 @@
 ## Description:
 EMon is a mobile application that helps users manage their personal finances, including income and expenses categorized into specific groups. This allows users to easily generate visual reports and efficiently control their personal cash flow.
 
-EMon works well on both iOS and Android devices.
-
 **Types of Expenses Managed by EMon Include:**
 - Rent
 - Food and beverages
